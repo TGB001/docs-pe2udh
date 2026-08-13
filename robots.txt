@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ba47om.yoursingles.online/sitemap.xml
